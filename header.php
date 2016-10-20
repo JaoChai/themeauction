@@ -26,6 +26,7 @@
 <link rel="stylesheet" href="assets/css/jquery-ui.min.css" rel="stylesheet" type="text/css" />
 <link rel="stylesheet" href="assets/css/screen.css" rel="stylesheet" type="text/css" />
 <link rel="stylesheet" href="assets/css/index.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="assets/css/details.css" rel="stylesheet" type="text/css" />
 
 <? include ('script.php'); ?>
 
@@ -767,3 +768,26 @@
   <img src="images/dark-left.png" width="160px" height="30px" />
   <img src="images/dark-right.png" width="160px" height="30px" /> -->
 </div>
+
+
+	<div id="preheader-new" class="hidden-xs">
+	    <div class="container">
+	    <div class="row">
+	    <div class="col-sm-12">
+	    <div class="pull-left">
+	    <div class="hdrbadge-new"><img src="https://www.dinoza.com/images/icon-fair-sml.png">100% Fair Auctions</div>
+	    <div class="hdrbadge-new hidden-sm"><img src="https://www.dinoza.com/images/icon-delivery-sml.png">3 Days Delivery*</div>
+	    <div class="hdrbadge-new"><img src="https://www.dinoza.com/images/icon-warranty-sml.png">Product Warranty</div>
+	    <div class="hdrbadge-new hidden-sm"><img src="https://www.dinoza.com/images/icon-support-sml.png">7 Days Customer Support</div>
+	</div>
+
+ <div class="pull-right text-right">
+			<!-- <button id="langswitch" class="btn btn-link" onclick="ChangeLanguage('en');"><img src="images/icon-uk-sqr.png" alt="Switch to English"> Eng</button><button id="livechat-online" class="btn btn-teal" style="display: none;" onClick="Tawk_API.maximize();"><i class="fa fa-comments-o fa-lg"></i> Live Chat - Online</button>
+      <button id="livechat-offline" class="btn btn-teal" onClick="location.href='/contact?src=offlinechat';"><i class="fa fa-comments-o fa-lg"></i> Live Chat - Offline</button> -->
+ </div>
+
+		 </div>
+		 </div>
+	   </div>
+  </div>
+<!-- End Header !-->
