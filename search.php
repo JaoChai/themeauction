@@ -3,7 +3,7 @@
 	          <div class="container">
 	            <div class="row">
 	              <div class="col-sm-12">
-	                <div id="logo" class="pull-left"><a href="/"><img src="https://www.dinoza.com/images/logo_whitetest.png" border="0" alt=""></a></div>
+	                <div id="logo" class="pull-left"><a href="/"><img src="images/logo_whitetest.png" border="0" alt=""></a></div>
 	                <div id="mobile-toggles" class="pull-right hidden-sm hidden-md hidden-lg text-right">
 	                  <span id="search-toggle"><i class="fa fa-search"></i></span>
 	                </div>

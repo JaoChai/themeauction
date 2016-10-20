@@ -775,10 +775,10 @@
 	    <div class="row">
 	    <div class="col-sm-12">
 	    <div class="pull-left">
-	    <div class="hdrbadge-new"><img src="https://www.dinoza.com/images/icon-fair-sml.png">100% Fair Auctions</div>
-	    <div class="hdrbadge-new hidden-sm"><img src="https://www.dinoza.com/images/icon-delivery-sml.png">3 Days Delivery*</div>
-	    <div class="hdrbadge-new"><img src="https://www.dinoza.com/images/icon-warranty-sml.png">Product Warranty</div>
-	    <div class="hdrbadge-new hidden-sm"><img src="https://www.dinoza.com/images/icon-support-sml.png">7 Days Customer Support</div>
+	    <div class="hdrbadge-new"><img src="images/icon-fair-sml.png">100% Fair Auctions</div>
+	    <div class="hdrbadge-new hidden-sm"><img src="images/icon-delivery-sml.png">3 Days Delivery*</div>
+	    <div class="hdrbadge-new"><img src="images/icon-warranty-sml.png">Product Warranty</div>
+	    <div class="hdrbadge-new hidden-sm"><img src="images/icon-support-sml.png">7 Days Customer Support</div>
 	</div>
 
  <div class="pull-right text-right">

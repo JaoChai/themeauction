@@ -507,11 +507,11 @@ product_details_inner_auction_top_box .top_left_det_auction_corner
 }
 
 .th .product_details_register-now a#signupintro {
-	background-image: url(../images/thai/signupintro--th-04.png);
+	background-image: url(http://localhost/theme/images/signupintro.png);
 }
 
 .en .product_details_register-now a#signupintro {
-	background-image: url(../images/english/signupintro--en-04.png);
+	background-image: url(http://localhost/theme/images/signupintro.png);
 }
 
 .product_details_register-now-top

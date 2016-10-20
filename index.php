@@ -83,7 +83,7 @@
 				          <div class="col-md-3 col-xs-6">
 				            <div class="media">
 				               <span class="pull-left">
-				                  <img class="media-object" src="https://www.dinoza.com/images/icon-fair-sml.png">
+				                  <img class="media-object" src="images/icon-fair-sml.png">
 				               </span>
 				               <div class="media-body">
 				                  <h4 class="media-heading">100% Fair Auctions</h4>
@@ -94,7 +94,7 @@
 				          <div class="col-md-3 col-xs-6">
 				            <div class="media">
 				               <span class="pull-left">
-				                  <img class="media-object" src="https://www.dinoza.com/images/icon-delivery-sml.png">
+				                  <img class="media-object" src="images/icon-delivery-sml.png">
 				               </span>
 				               <div class="media-body">
 				                  <h4 class="media-heading">3 Days Delivery*</h4>
@@ -105,7 +105,7 @@
 				          <div class="col-md-3 col-xs-6">
 				            <div class="media">
 				               <span class="pull-left">
-				                  <img class="media-object" src="https://www.dinoza.com/images/icon-warranty-sml.png">
+				                  <img class="media-object" src="images/icon-warranty-sml.png">
 				               </span>
 				               <div class="media-body">
 				                  <h4 class="media-heading">Product Warranty</h4>
@@ -116,7 +116,7 @@
 				          <div class="col-md-3 col-xs-6">
 				            <div class="media">
 				               <span class="pull-left">
-				                  <img class="media-object" src="https://www.dinoza.com/images/icon-support-sml.png">
+				                  <img class="media-object" src="images/icon-support-sml.png">
 				               </span>
 				               <div class="media-body">
 				                  <h4 class="media-heading">7 Days Customer Support</h4>
@@ -570,20 +570,6 @@ function ValidateFeedbackForm(f1)
                                                                       </div>
 <div class="clear"></div>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

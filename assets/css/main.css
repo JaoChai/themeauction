@@ -2462,19 +2462,19 @@ footer #mascot img {
 }
 
 #footer-content ul.contactchannels li.i-call {
-  background-image: url(https://www.dinoza.com/images/icon-call-01.png);
+  background-image: url(http://localhost/theme/images/icon-call-01.png);
 }
 
 #footer-content ul.contactchannels li.i-email {
-  background-image: url(https://www.dinoza.com/images/icon-email-01.png);
+  background-image: url(http://localhost/theme/images/icon-email-01.png);
 }
 
 #footer-content ul.contactchannels li.i-fb {
-  background-image: url(https://www.dinoza.com/images/icon-fb-01.png);
+  background-image: url(http://localhost/theme/images/icon-fb-01.png);
 }
 
 #footer-content ul.contactchannels li.i-line {
-  background-image: url(https://www.dinoza.com/images/icon-line-01.png);
+  background-image: url(http://localhost/theme/images/icon-line-01.png);
 }
 
 #copyright {
