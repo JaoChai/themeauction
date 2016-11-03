@@ -50,6 +50,11 @@
       </div> <!-- /container -->
     </footer>
   <div id="copyright" class="small">&copy; 2016 BidCups Online Co., Ltd. All rights reserved.</div>
+  <link href="https://www.dinoza.com/css/shop.mob.css?v147" rel="stylesheet" type="text/css" />
+
+</div>
+</div>
+</div>
 
 <script language="javascript" src="assets/js/function.js" type="text/javascript"></script>
 <!--<script language="Javascript" src="assets/js/hesk_javascript.js" type="text/javascript" ></script>!-->
