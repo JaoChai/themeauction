@@ -8225,11 +8225,11 @@ padding: 10px;
     font-family: 'effra_bold';
 }
 
-.bidpacktable .noofbids {
+/*.bidpacktable .noofbids {
   background: url(../images/arrow_5.png) right center no-repeat;
   width: 41%;
 color: #059E0E;
-}
+}*/
 
 .bidpacktable .price {
   width: 30%;

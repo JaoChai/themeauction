@@ -305,7 +305,7 @@ a.btn-default {
 
 .btn-orange {
   color: #fff;
-  background-color: #FF5910;
+  background-color: #ff1010;
   border-color: transparent;
 }
 .btn-orange:hover,
@@ -315,7 +315,7 @@ a.btn-default {
 .btn-orange.active,
 .open > .dropdown-toggle.btn-orange {
   color: #fff;
-  background-color: #FF6E2E;
+  background-color: #ff1010;
   border-color: transparent;
 }
 .btn-orange:active,
@@ -2414,7 +2414,7 @@ fieldset[disabled] .btn-border.active {
 
 
 footer {
-  background: #294548;
+  background: #373939;
   color: #fff;
   padding: 20px 0;
 }
@@ -2439,7 +2439,7 @@ footer #mascot img {
 }
 
 #footer-content h4 {
-  color: #0BAA94;
+  color: #bababa;
   margin: 10px 0;
 }
 
@@ -2462,24 +2462,24 @@ footer #mascot img {
 }
 
 #footer-content ul.contactchannels li.i-call {
-  background-image: url(http://localhost/theme/images/icon-call-01.png);
+  background-image: url(http://localhost:8888/theme/images/icon-call-01.png);
 }
 
 #footer-content ul.contactchannels li.i-email {
-  background-image: url(http://localhost/theme/images/icon-email-01.png);
+  background-image: url(http://localhost:8888/theme/images/icon-email-01.png);
 }
 
 #footer-content ul.contactchannels li.i-fb {
-  background-image: url(http://localhost/theme/images/icon-fb-01.png);
+  background-image: url(http://localhost:8888/theme/images/icon-fb-01.png);
 }
 
 #footer-content ul.contactchannels li.i-line {
-  background-image: url(http://localhost/theme/images/icon-line-01.png);
+  background-image: url(http://localhost:8888/theme/images/icon-line-01.png);
 }
 
 #copyright {
   text-align: center;
-  background: #0BAA94;
+  background: #ff1010;
   color: #fff;
   padding: 20px 0;
   font-family: 'Open Sans';
@@ -2860,7 +2860,7 @@ footer #mascot img {
 
 #winnerbox-wrap h3 {
   font-size: 20px;
-  background: #0BAA94;
+  background: #ff1010;
   padding: 8px 15px;
   color: #fff;
   margin: 0;
@@ -2879,7 +2879,7 @@ footer #mascot img {
     top: 0;
     border-width: 19px 15px;
     border-style: solid;
-    border-color: #0BAA94 transparent  #0BAA94 #0BAA94;
+    border-color: #ff1010 transparent  #ff1010 #ff1010;
     right: -15px;
   }
 }
@@ -3006,7 +3006,7 @@ footer #mascot img {
 
 #winnerbox .item .caption .desc .price {
   font-size: 30px;
-  color: #079E0E;
+  color: #ff1010;
   font-family: 'Open Sans';
   font-weight: bold;
   line-height: 1.3em;
@@ -5150,7 +5150,7 @@ footer #mascot img {
 }
 
 #header {
-  background: #0BAA94;
+  background: #ff1010;
 }
 #logo {
   padding: 22px 0;
@@ -5229,7 +5229,7 @@ font-family: 'Open Sans';
 }
 
 .navbar {
-  background: #294548;
+  background: #373939;
   height: 100%;
   min-height: 0;
   margin-bottom: 0;

@@ -638,10 +638,11 @@ line-height:40px !important;
 	float:left;
 	padding:0 23px 0 1px;
 	padding-bottom:20px;
+  margin: 5px;
 }
 .main_bidnow_topbg_image{
 	float:left;
-	width:199px;
+	width:190px;
 	height:36px;
 	font-weight:bold;
 	text-align:center;
@@ -1880,7 +1881,7 @@ padding:5px 0 2px 0;
 
 	font-size:17px;
 
-	color:#094b3f;
+	color:#ff1010;
 
 	border-bottom:1px solid #CCCCCC;
 
@@ -2097,7 +2098,7 @@ text-align:right;
 	width:auto;
 	float:right;
 	padding-right:20px;
-	color:#ff4500;
+	color:#ff1010;
 	text-align:right;
 	text-decoration:none;
 	font-weight:bold;
@@ -2180,7 +2181,7 @@ text-align:right;
 }
 .auctiontype_header_middlebg{
 	border-bottom: 1px solid #CCCCCC;
-    color: #094B3F;
+    color: #ff1010;
     float: left;
     font-size: 17px;
     font-family:'open_sansbold', Arial, Helvetica, sans-serif;

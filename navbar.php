@@ -20,10 +20,10 @@
              <li><a href="/winners">ผู้ชนะประมูล</a></li>
            </ul>
            <ul class="nav navbar-nav navbar-right">
-             <li class="text">ครั้งแรกที่ Dinoza?</li>
-             <li><a href="/howitworks">ไดโนซ่าคืออะไร</a></li>
+             <li><a href="#">ครั้งแรกที่ BidCups</a></li>
+             <li><a href="#">BidCups คืออะไร</a></li>
              <!-- <li><a href="/99percentsavings">Is 99% discount possible?</a></li> -->
-             <li><a href="/help">ช่วยเหลือ</a></li>
+             <li><a href="#">ช่วยเหลือ</a></li>
            </ul>
            <ul class="nav navbar-nav visible-xs">
              <li>
@@ -73,3 +73,4 @@
 
       	</div>
      <!-- End Button Login !-->
+    
