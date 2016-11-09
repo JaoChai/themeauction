@@ -44,17 +44,6 @@
            <span class='pageloaderinner'><span class='pageloader'></span></span>
 
 
-              <div class="main_bidnow_box" id="" >
-                <div class="main_bidnow_middle">
-                   <div class="main_bidnow_area">
-                       <div class="main_bidnow_product_image_box">
-                          <div class="main_bidnow_product_image"><a href="#"><img src=""  border="0" alt="" /></a></div>
-                       </div>
-                   </div>
-                </div>
-              </div>
-
-
               <?php include('bidding.php') ?>
 
 
@@ -64,7 +53,7 @@
 
          <div class="clear"></div>
 
-         <div class="block"><a href="/register?src=homebnr"><img src="images/coupon.png" /></a></div>
+         <div class="block"><a href="#"><img src="images/coupon.png" class="img-responsive"/></a></div>
 
          <div class="clear">&nbsp;</div>
 
@@ -166,14 +155,14 @@
         <div class="banner-bottom-main">
           <div class="featurebadge">
 
-            <img src="images/icon-delivery-02.png" border="0" title="https://www.bidcups.com">
+            <img src="images/icon-delivery-02.png"  class="img-responsive" border="0" title="https://www.bidcups.com">
             <p>เราแพ็คด้วยใจ จัดส่งถึงมือ </p> ภายใน 3 วันทำการ
 
           </div>
 
           <div class="featurebadge">
 
-            <img src="images/icon-secure-02.png" border="0">
+            <img src="images/icon-secure-02.png"  class="img-responsive" border="0">
 
             <p>ชำระเงินผ่านระบบที่มีความปลอดภัยมาตรฐาน SSL (มาตรฐานเดียวกับสถาบันทางการเงิน) </p>
 
@@ -181,7 +170,7 @@
 
          <div class="featurebadge">
 
-           <img src="images/icon-warranty-02.png" border="0">
+           <img src="images/icon-warranty-02.png"  class="img-responsive" border="0">
 
            <p>รับประกันสินค้าทุกชิ้น มีปัญหาเปลี่ยนได้ทันทีภายใน 7 วัน</p>
 
@@ -189,7 +178,7 @@
 
         <div class="featurebadge">
 
-          <img src="images/icon-support-02.png" border="0">
+          <img src="images/icon-support-02.png"  class="img-responsive" border="0">
           <p>มีทีมงานดูแลตลอด 7 วัน หากมีปัญหา ติดต่อเราทันที</p>
 
         </div>
@@ -211,7 +200,7 @@
        <div class="col-md-12">
            <ul>
                <li>
-                   <img src="images/01.png">
+                   <img src="images/01.png"  class="img-responsive">
                </li>
                <li>
           </div>
